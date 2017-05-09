@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Button.cs" />
      <Compile Include="Assets\SceneSwitchButton.cs" />
+     <Compile Include="Assets\TempMove.cs" />
      <Compile Include="Assets\TouchInput.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>J:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
